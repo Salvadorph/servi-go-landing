@@ -10,7 +10,7 @@ const GOOGLE_FORM_URL =
 
 const navLinks = [
   { label: "Beneficios", href: "#beneficios" },
-  { label: "Cómo funciona", href: "#como-funciona" },
+  { label: "Pasos para apuntarse", href: "#como-funciona" },
   { label: "La app", href: "#la-app" },
   { label: "FAQ", href: "#faq" },
 ];

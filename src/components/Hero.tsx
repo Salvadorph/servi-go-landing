@@ -25,7 +25,7 @@ export default function Hero() {
         </h1>
         <p className="text-lg sm:text-xl text-blue-200 mb-10 max-w-2xl mx-auto leading-relaxed">
           Únete a ServiGo y recibirás solicitudes de trabajo cerca de ti:
-          limpieza, reparaciones, clases y muchos más. Elegirás cuánto cobrar,
+          limpieza, gasfitería, albañilería, clases y muchos más oficios. Elegirás cuánto cobrar,
           cuándo trabajar y con quién aceptar los trabajos.
         </p>
         <a
